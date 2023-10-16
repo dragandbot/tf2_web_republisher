@@ -10,7 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Refactored and simplified tf2_web_republisher internally to fix memory leak.
 
-***
 
 ## [0.3.2] - 2023-03-31
 
